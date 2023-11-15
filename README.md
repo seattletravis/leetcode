@@ -1,3 +1,4 @@
+```
 import math
 
 def countDigits(num):
@@ -13,3 +14,4 @@ def countDigits(num):
   return count
 
 print(countDigits(1248))
+```
