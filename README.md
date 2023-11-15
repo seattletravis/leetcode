@@ -1,4 +1,4 @@
-[Watch Video]()
+[Watch Video on Youtube - Link](https://youtu.be/YFMAqLfv_fU?si=XCW8RlZF_QW6Oaj1)
 
 ```
 import math
