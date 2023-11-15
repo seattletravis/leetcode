@@ -1,4 +1,4 @@
-[Watch Video on Youtube - Link](https://youtu.be/YFMAqLfv_fU?si=XCW8RlZF_QW6Oaj1)
+[Watch Video on Youtube - Link](https://youtu.be/BeS_4efa7-U)
 
 ```
 import math
