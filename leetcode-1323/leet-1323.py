@@ -9,5 +9,5 @@ def maximum69Number (num):
     return num
 
 print(maximum69Number(9669))
-print(maximum69Number(9969))
+print(maximum69Number(9996))
 print(maximum69Number(9999))
