@@ -7,5 +7,7 @@ leetcode-94 - Binary Tree Inorder Traversal
 
 leetcode-1323 - Maximum 69 Number
 
+leetcode-2520 - Count the Digits That Divide a Number
+
 
 
