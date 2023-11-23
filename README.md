@@ -5,7 +5,7 @@ This is an iterative approach to extracting each digit from a multi digit number
 Index:
 leetcode-94 - Binary Tree Inorder Traversal
 
-leetcode-1323 - 
+leetcode-1323 - Maximum 69 Number
 
 
 
