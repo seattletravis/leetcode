@@ -11,14 +11,14 @@ root3 = [1]
 
 print(TreeNode(root1))
 
-# class Solution(object):
-#     def inorderTraversal(root1):
-#         result = []
-#         def inorder(root):
-#             if not root:
-#                 return
-#             inorder(root.left)
-#             result.append(root.val)
-#             inorder(root.right)
-#         inorder(root1)
-#         print(result)
+class Solution(object):
+    def inorderTraversal(root1):
+        result = []
+        def inorder(root):
+            if not root:
+                return
+            inorder(root.left)
+            result.append(root.val)
+            inorder(root.right)
+        inorder(root1)
+        print(result)
