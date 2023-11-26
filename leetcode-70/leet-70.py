@@ -7,6 +7,7 @@ def climbStairs(n):
     3:3
     4:5
     5:8
+    n:(sum of last 2 results)
     """
     if n == 0:
         return 0
