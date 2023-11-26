@@ -8,7 +8,7 @@ Ready.
 
 Index:
 
-1. 70 - Climbing Stairs
+1. leetcode-70 - Climbing Stairs
 
 2. leetcode-94 - Binary Tree Inorder Traversal
 
