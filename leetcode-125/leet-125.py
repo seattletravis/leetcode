@@ -1,5 +1,4 @@
-#Intuitive Way to solve this
-
+#Intuitive Way to solve this - 636ms
 def isPalindrome1(s):
     stripped = ''
     deppirts = '' 
@@ -10,7 +9,7 @@ def isPalindrome1(s):
     print(stripped, deppirts)
     return stripped == deppirts
 
-#slightly better:
+#slightly better: - 354ms
 #Remove string to string comparison and compared string to reverse iteration over string
 def isPalindrome2(s):
     stripped = ''
@@ -19,7 +18,7 @@ def isPalindrome2(s):
             stripped += letter.lower()
     return stripped == stripped[::-1] # <--
 
-#slightly better still
+#slightly better still - 282ms
 #instead of changing tolower in the loop, change initial string tolower() before we start.
 def isPalindrome3(s):
     s = s.lower()
@@ -29,13 +28,13 @@ def isPalindrome3(s):
             stripped += letter
     return stripped == stripped[::-1]
 
-#Even better!
+#Even better! - 25ms
 def isPalindrome4(s):              
     s = s.lower()
     s = filter(lambda x: x.isalnum(), s)
     return s == s[::-1]
 
-#Best!!!
+#Best!!! - 18ms
 def isPalindrome5(self, s):
     s = filter(lambda x: x.isalnum(), s)
     s = s.lower()
