@@ -36,4 +36,7 @@ def isPalindrome4(s):
     return s == s[::-1]
 
 #Best!!!
-
+def isPalindrome5(self, s):
+    s = filter(lambda x: x.isalnum(), s)
+    s = s.lower()
+    return s == s[::-1]
