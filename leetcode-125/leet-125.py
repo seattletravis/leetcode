@@ -6,7 +6,6 @@ def isPalindrome1(s):
         if letter.isalnum():
             stripped += letter.lower()
             deppirts = letter.lower() + deppirts
-    print(stripped, deppirts)
     return stripped == deppirts
 
 #slightly better: - 354ms
