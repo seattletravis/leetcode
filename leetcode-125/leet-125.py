@@ -1,6 +1,6 @@
 #Intuitive Way to solve this
 
-def isPalindrome(s):
+def isPalindrome1(s):
     stripped = ''
     deppirts = '' 
     for letter in s:
@@ -12,7 +12,7 @@ def isPalindrome(s):
 
 #slightly better:
 #Remove string to string comparison and compared string to reverse iteration over string
-def isPalindrome(s):
+def isPalindrome2(s):
     stripped = ''
     for letter in s:
         if letter.isalnum():
@@ -20,7 +20,20 @@ def isPalindrome(s):
     return stripped == stripped[::-1] # <--
 
 #slightly better still
+#instead of changing tolower in the loop, change initial string tolower() before we start.
+def isPalindrome3(s):
+    s = s.lower()
+    stripped = ''
+    for letter in s:
+        if letter.isalnum():
+            stripped += letter
+    return stripped == stripped[::-1]
 
+#Even better!
+def isPalindrome4(s):              
+    s = s.lower()
+    s = filter(lambda x: x.isalnum(), s)
+    return s == s[::-1]
 
-
+#Best!!!
 
