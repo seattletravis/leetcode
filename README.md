@@ -12,7 +12,9 @@ Index:
 
 2. leetcode-94 - Binary Tree Inorder Traversal
 
-3. leetcode-1323 - Maximum 69 Number
+3. leetcode-125
+
+4. leetcode-1323 - Maximum 69 Number
 
 4. leetcode-2520 - Count the Digits That Divide a Number - [Watch Video on Youtube - example 2520 - Link](https://youtu.be/BeS_4efa7-U)
 
