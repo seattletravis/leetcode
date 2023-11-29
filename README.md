@@ -12,7 +12,7 @@ Index:
 
 2. leetcode-94 - Binary Tree Inorder Traversal
 
-3. leetcode-125
+3. leetcode-125 - Valid Palidrome
 
 4. leetcode-1323 - Maximum 69 Number
 
