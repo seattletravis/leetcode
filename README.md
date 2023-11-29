@@ -4,7 +4,7 @@ I have also recorded some youtube videos on some of the more intersting code.
 
 To use this repository simply navigate to the filefolder that contains the problem.txt file and the leet.py file. Put them both in your editor and take a look. Happy Hacking!
 
-Ready.
+Ready. set. code!
 
 Index:
 
