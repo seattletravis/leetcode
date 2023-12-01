@@ -1,6 +1,6 @@
 
 Welcome to my leetcode diary. While learning to code and to solve fundamental data structure and algorythms, I decided to keep my leetcode here as a Journal to this Journey.
-I have also recorded some youtube videos on some of the more intersting code. I like to write my code in python and also to write several solutions to see what changes get the best response times.
+I have also recorded some youtube videos on some of the more intersting code. I like to write my code in python and also to write several solutions to see what changes get the best response times. Leetcode gives a comparison of you're programs responsiveness in ms and so I can compare my entry to past entries and to other leetcoders.
 
 To use this repository simply navigate to the filefolder that contains the problem.txt file and the leet.py file. Put them both in your editor and take a look. Happy Hacking!
 
